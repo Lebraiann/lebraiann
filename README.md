@@ -4,6 +4,10 @@
 
 <br />
 
+<p align="center">
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="300" alt="cat hacker gif" />
+</p>
+
 - 🌱 &nbsp;I'm currently studying **Software Development** at **Universitaria Agustiniana (Uniagustiniana)**  
 - 💼 &nbsp;I work on projects related to **web development**, **educational platforms**, **database systems**, and **enterprise management software**  
 - 🖥️ &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/brayan-camilo-carre%C3%B1o-pinto-725117329/)**  
