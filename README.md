@@ -1,18 +1,20 @@
-<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
- 
-### Hi there 👋 I am Janith Thenuka Herath aka thenuka99
+# Hi there 👋 I am Brayan Carreño
 
-> I am a hardworking individual who is dedicated towards his goals.
+> I am a dedicated and disciplined person who is fully committed to achieving his goals.
+
 <br />
 
-- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me **janithherath2@gmail.com**
-- 📝 I studied at Ananda College 
-- 💬 Ask me about: anything, I am happy to help
-- 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
-	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br><br><br>
+- 🌱 &nbsp;I'm currently studying **Software Development** at **Universitaria Agustiniana (Uniagustiniana)**  
+- 💼 &nbsp;I work on projects related to **web development**, **educational platforms**, **database systems**, and **enterprise management software**  
+- 🖥️ &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/brayan-camilo-carre%C3%B1o-pinto-725117329/)**  
+- 📫 &nbsp;How to reach me: **bccarrenop@gmail.com**  
+- 📝 &nbsp;I studied at **Universitaria Agustiniana**  
+- 💬 &nbsp;Ask me about anything — I’m always happy to help  
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=brayancarreno&label=Profile%20views&color=brightgreen&style=plastic" alt="Brayan's profile views" />  
+[![GitHub followers](https://img.shields.io/github/followers/brayancarreno?label=Followers&style=social)](https://github.com/brayancarreno?tab=followers)
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
