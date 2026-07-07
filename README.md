@@ -66,12 +66,12 @@ const brayan = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lebraiann&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de Brayan" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lebraiann&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=es" alt="Lenguajes más usados" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lebraiann&show_icons=true&theme=github_dark&hide_border=true&locale=es&cache_seconds=86400" alt="Estadísticas de Brayan" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lebraiann&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=es&cache_seconds=86400" alt="Lenguajes más usados" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lebraiann&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones" />
+<img src="https://streak-stats.demolab.com/?user=Lebraiann&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones" />
 
 <br/><br/>
 
