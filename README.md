@@ -3,8 +3,12 @@
 <!-- Banner superior estilo zen -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=180&section=header&text=Brayan%20Carreño&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descAlignY=70" width="100%" />
 
-<!-- Typing effect calmado -->
-<img src="https://readme-typing-svg.demolab.com?font=Zen+Maru+Gothic&weight=500&size=22&duration=4000&pause=1500&color=D48A9B&center=true&vCenter=true&width=600&lines=Paso+a+paso;Angular+·+Supabase+·+Docker;Código+simple%2C+mente+tranquila" alt="Typing SVG" />
+<!-- Gato zen dando la bienvenida -->
+<img width="300" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" alt="Gato relajado" />
+
+<br/><br/>
+
+*Angular · Supabase · Docker — Código simple, mente tranquila*
 
 <br/><br/>
 
