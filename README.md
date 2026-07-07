@@ -15,6 +15,8 @@
 
 ## 🧑‍💻 Sobre mí
 
+<img align="right" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gato programando" />
+
 ```typescript
 const brayan = {
   rol: "Full Stack Developer",
@@ -34,6 +36,8 @@ const brayan = {
 ---
 
 ## 🛠️ Stack Tecnológico
+
+<img align="right" width="220" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" alt="Gato tecleando" />
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -83,6 +87,10 @@ const brayan = {
 <div align="center">
 
 Si te interesa colaborar en un proyecto o simplemente charlar sobre tecnología, ¡escríbeme!
+
+<img width="250" src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" alt="Gato saludando" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brayan-camilo-carre%C3%B1o-pinto-725117329/)
 [![Gmail](https://img.shields.io/badge/Gmail-Escribir-EA4335?style=flat-square&logo=gmail)](mailto:bccarrenop@gmail.com)
