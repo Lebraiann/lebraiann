@@ -1,102 +1,124 @@
 <div align="center">
 
-<!-- Banner animado con typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00A86B&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Brayan+Carre%C3%B1o+%F0%9F%91%8B;Full+Stack+Developer;Angular+%7C+Supabase+%7C+Docker;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Banner superior estilo zen -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=180&section=header&text=ブライアン%20·%20Brayan%20Carreño&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20·%20フルスタック開発者&descSize=16&descAlignY=70" width="100%" />
 
-<br/>
+<!-- Typing effect calmado -->
+<img src="https://readme-typing-svg.demolab.com?font=Zen+Maru+Gothic&weight=500&size=22&duration=4000&pause=1500&color=D48A9B&center=true&vCenter=true&width=600&lines=一歩一歩+·+Paso+a+paso;Angular+·+Supabase+·+Docker;シンプルなコード、静かな心;Código+simple%2C+mente+tranquila" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayan_Carreño-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-camilo-carre%C3%B1o-pinto-725117329/)
-[![Email](https://img.shields.io/badge/Email-bccarrenop%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bccarrenop@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=Lebraiann&label=Visitas&color=00A86B&style=for-the-badge)
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayan_Carreño-B48EAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-camilo-carre%C3%B1o-pinto-725117329/)
+[![Email](https://img.shields.io/badge/Email-bccarrenop%40gmail.com-D48A9B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bccarrenop@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=Lebraiann&label=訪問者&color=A3BE8C&style=for-the-badge)
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 Sobre mí
+<div align="center">
 
-<img align="right" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gato programando" />
+🌸 ─────────────── ⛩️ ─────────────── 🌸
 
-```typescript
-const brayan = {
-  rol: "Full Stack Developer",
-  ubicación: "Bogotá, Colombia 🇨🇴",
-  educación: "Desarrollo de Software — Universitaria Agustiniana",
-  actualmente: "Construyendo aplicaciones web y sistemas de gestión empresarial",
-  intereses: ["Web Development", "Bases de datos", "Automatización de documentos"],
-  metodologías: ["SCRUM", "Metodologías ágiles"],
-};
+</div>
+
+## 🍵 自己紹介 · Sobre mí
+
+<img align="right" width="280" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" alt="Gato tecleando tranquilo" />
+
+```yaml
+名前 / nombre: Brayan Carreño
+場所 / ubicación: Bogotá, Colombia 🇨🇴
+役割 / rol: Full Stack Developer
+教育 / educación: Desarrollo de Software — Uniagustiniana
+哲学 / filosofía: "シンプルが一番" — lo simple es lo mejor
 ```
 
-- 🚀 Trabajo en proyectos de **desarrollo web**, **plataformas educativas** y **software de gestión empresarial**
-- 🌱 Aprendiendo y profundizando constantemente en nuevas tecnologías
-- 💬 Pregúntame sobre **Angular, Supabase, PHP o MySQL** — siempre feliz de ayudar
-- ⚡ Dato curioso: me apasiona convertir procesos manuales en soluciones automatizadas
+- 🎋 Construyo aplicaciones web y sistemas de gestión con **calma y precisión**
+- 🌊 Creo en el código limpio, los procesos simples y la mejora continua (**改善 · kaizen**)
+- 🏮 Pregúntame sobre **Angular, Supabase, PHP o MySQL**
 
----
-
-## 🛠️ Stack Tecnológico
-
-<img align="right" width="220" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" alt="Gato tecleando" />
-
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Bases de datos
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### DevOps & Herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 Estadísticas de GitHub
+<br clear="right"/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lebraiann&show_icons=true&theme=github_dark&hide_border=true&locale=es&cache_seconds=86400" alt="Estadísticas de Brayan" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lebraiann&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=es&cache_seconds=86400" alt="Lenguajes más usados" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Lebraiann&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones" />
-
-<br/><br/>
-
-<!-- Gráfico de actividad -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lebraiann&theme=github-compact&hide_border=true&area=true" alt="Gráfico de actividad" width="95%" />
+🌸 ─────────────── ⛩️ ─────────────── 🌸
 
 </div>
 
----
+## ⚙️ 道具 · Herramientas
 
-## 🤝 Conecta conmigo
+<img align="right" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gato programador" />
+
+**Frontend · 表**
+
+![Angular](https://img.shields.io/badge/Angular-2E3440?style=flat-square&logo=angular&logoColor=D48A9B)
+![TypeScript](https://img.shields.io/badge/TypeScript-2E3440?style=flat-square&logo=typescript&logoColor=88C0D0)
+![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=flat-square&logo=javascript&logoColor=EBCB8B)
+![HTML5](https://img.shields.io/badge/HTML5-2E3440?style=flat-square&logo=html5&logoColor=D08770)
+![CSS3](https://img.shields.io/badge/CSS3-2E3440?style=flat-square&logo=css3&logoColor=81A1C1)
+
+**Backend · 裏**
+
+![PHP](https://img.shields.io/badge/PHP-2E3440?style=flat-square&logo=php&logoColor=B48EAD)
+![Supabase](https://img.shields.io/badge/Supabase-2E3440?style=flat-square&logo=supabase&logoColor=A3BE8C)
+![MySQL](https://img.shields.io/badge/MySQL-2E3440?style=flat-square&logo=mysql&logoColor=88C0D0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=flat-square&logo=postgresql&logoColor=81A1C1)
+![Python](https://img.shields.io/badge/Python-2E3440?style=flat-square&logo=python&logoColor=EBCB8B)
+
+**Herramientas · 他**
+
+![Docker](https://img.shields.io/badge/Docker-2E3440?style=flat-square&logo=docker&logoColor=88C0D0)
+![Git](https://img.shields.io/badge/Git-2E3440?style=flat-square&logo=git&logoColor=D08770)
+![Postman](https://img.shields.io/badge/Postman-2E3440?style=flat-square&logo=postman&logoColor=D08770)
+![Figma](https://img.shields.io/badge/Figma-2E3440?style=flat-square&logo=figma&logoColor=B48EAD)
+
+<br clear="right"/>
 
 <div align="center">
 
-Si te interesa colaborar en un proyecto o simplemente charlar sobre tecnología, ¡escríbeme!
+🌸 ─────────────── ⛩️ ─────────────── 🌸
 
-<img width="250" src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" alt="Gato saludando" />
+</div>
+
+## 🏯 活動 · Actividad
+
+<div align="center">
+
+<img height="200" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Gato zen trabajando" />
+<img height="200" src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" alt="Gato concentrado" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lebraiann&theme=nord&hide_border=true&area=true&bg_color=00000000" alt="Gráfico de actividad" width="95%" />
+
+</div>
+
+<div align="center">
+
+🌸 ─────────────── ⛩️ ─────────────── 🌸
+
+</div>
+
+## 🕊️ 連絡 · Contacto
+
+<div align="center">
+
+*「七転び八起き」*
+*Cae siete veces, levántate ocho.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brayan-camilo-carre%C3%B1o-pinto-725117329/)
-[![Gmail](https://img.shields.io/badge/Gmail-Escribir-EA4335?style=flat-square&logo=gmail)](mailto:bccarrenop@gmail.com)
+<img width="230" src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" alt="Gato saludando" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-つながる-B48EAD?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brayan-camilo-carre%C3%B1o-pinto-725117329/)
+[![Gmail](https://img.shields.io/badge/Gmail-書く-D48A9B?style=flat-square&logo=gmail)](mailto:bccarrenop@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<!-- Footer zen -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=120&section=footer&text=ありがとう%20·%20Gracias%20por%20visitar&fontSize=20&fontColor=ffffff" width="100%" />
 
 </div>
